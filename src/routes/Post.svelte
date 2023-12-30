@@ -121,7 +121,7 @@
 		text-align: justify;
 	}
 
-	:global(p) {
+	:global(content p) {
 		margin: 0;
 	}
 

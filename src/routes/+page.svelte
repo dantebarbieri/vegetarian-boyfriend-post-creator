@@ -364,6 +364,7 @@
 	/* Style for input and textarea */
 	input,
 	textarea {
+		border-radius: 3px;
 		padding: 5px;
 	}
 

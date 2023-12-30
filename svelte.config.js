@@ -14,9 +14,6 @@ const config = {
 		adapter: adapter({
 			fallback: 'index.html' // may differ from host to host
 		}),
-		paths: {
-			base: process.env.NODE_ENV === 'production' ? '/vegetarian-boyfriend-post-creator' : '',
-		}
 	}
 };
 

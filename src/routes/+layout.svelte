@@ -87,6 +87,7 @@
 		max-height: 100vh;
 		max-height: 100dvh;
 		margin: 0 auto;
+		padding: 1rem;
 		overflow: hidden;
 	}
 </style>
